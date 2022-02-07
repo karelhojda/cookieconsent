@@ -1,4 +1,4 @@
-import cookieCSS from "../node_modules/vanilla-cookieconsent/src/cookieconsent.css";
+import cookieCSS from "../cookieconsent.css";
 
 function CookieConsentInit() {
   const callCC = () => {
